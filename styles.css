@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+label {
+	
+	width: 40%; 
+	font-weight: bold;
+}
+
+form {
+	background-color: darkgoldenrod;}
+
+h1, h2{
+	color: darkorange;
+}
+
+#rebates, #money, #benefits, #contractors {background-image: url("sun1.jpg");}
